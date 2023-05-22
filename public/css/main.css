@@ -15,12 +15,12 @@ main {
   margin: auto;
 }
 
-.centered {
-  text-align: center;
-}
-
 form {
   display: inline;
+}
+
+.centered {
+  text-align: center;
 }
 
 .main-header {
@@ -147,13 +147,6 @@ form {
 
 .card {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
-  transition: all 0.3s ease-in-out;
-}
-
-.card:hover {
-  transition: all 0.3s ease-in;
-  box-shadow: 3px 3px 5px rgb(155, 155, 155);
-  transform: scale(90%);
 }
 
 .card__header,
@@ -213,3 +206,10 @@ form {
     display: none;
   }
 }
+
+
+/* ElmBrook school student */
+
+/* https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkwqdPB3zbwlPfMks6OiLeaeTndPMZ4GBSzA&usqp=CAU */
+
+/* ElmBrook school student */
