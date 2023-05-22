@@ -147,6 +147,13 @@ form {
 
 .card {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  transition: all 0.3s ease-in-out;
+}
+
+.card:hover {
+  transition: all 0.3s ease-in;
+  box-shadow: 3px 3px 5px rgb(155, 155, 155);
+  transform: scale(90%);
 }
 
 .card__header,
