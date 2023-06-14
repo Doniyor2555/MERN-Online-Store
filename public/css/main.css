@@ -207,6 +207,14 @@ form {
   }
 }
 
+.image {
+  height: 20rem;
+}
+
+.image img {
+  height: 100%;
+}
+
 
 /* ElmBrook school student */
 
